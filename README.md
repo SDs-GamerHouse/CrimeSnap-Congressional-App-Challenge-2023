@@ -15,7 +15,7 @@
 - The Face-Recognition library is a trained ML model to detect faces. It has a accuracy of 99.38% !! 
 - Firebase is a cloud based platform created by Google that offers developers a range of tools and services to build and manage applications. It simplifies development by providing features like real time database, user authentication, and cloud storage.
 
-## Real World applications of CrimiFace and What's next for CrimiFace?:
+## Real World applications of CrimiFace and What's next for CrimiFace:
 In the future, I envision CrimiFace becoming an invaluable tool for law enforcement agencies worldwide. As technology continues to advance, CrimiFace will keep pushing the boundaries of facial recognition, seamlessly connecting with an extensive network of security cameras and databases. It will seamlessly integrate into existing law enforcement systems, allowing for instant and accurate identification of criminals in real time. With the power of artificial intelligence and machine learning, CrimiFace will provide even more advanced predictive analysis, empowering proactive crime prevention efforts. Ultimately, my hope is that CrimiFace will play a vital role in creating safer communities and improving the effectiveness of our criminal justice system.
 
 ## Sources: 
