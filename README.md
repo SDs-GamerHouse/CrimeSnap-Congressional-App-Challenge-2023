@@ -7,7 +7,7 @@
 
 ## How was CrimiFace built? Built using Python: - Used OpenCV library for the camera and UI. - Used Face-Recognition library to set up the facial recognition. 
 - Used Firebase, to setup the real time database. 
-- 
+
 ## More Details... 
 - The Face-Recognition library is a trained ML model to detect faces. It has a accuracy of 99.38% !! 
 - Firebase is a cloud based platform created by Google that offers developers a range of tools and services to build and manage applications. It simplifies development by providing features like real time database, user authentication, and cloud storage.
