@@ -16,8 +16,8 @@
 
 ## Real World application of CrimiFace:
 - Webcam can be replaced with security camera footage.
--CrimiFace can detect criminals and update information about their whereabouts in the real time database.
--This can provide invaluable help to law enforcement by making their jobs easier and this world a better place.
+- CrimiFace can detect criminals and update information about their whereabouts in the real time database.
+- This can provide invaluable help to law enforcement by making their jobs easier and this world a better place.
 
 ## Sources: 
 - Images used for the UI were taken and edited in Canva 
