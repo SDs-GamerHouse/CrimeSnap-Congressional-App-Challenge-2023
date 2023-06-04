@@ -2,7 +2,7 @@
 
 ### Welcome to CrimiFace, a highly accurate criminal detection program that utilizes facial recognition technology to instantly identify suspects and seamlessly transmit data to a real time database, ultimately enhancing law enforcement with vital information. 
 
-##### CrimiFace pitch video: 
+##### CrimiFace pitch video: https://www.youtube.com/watch?v=v344Jtm1Do8
 ##### Presentation Google Slides: https://docs.google.com/presentation/d/1ACA74FgXqNwy1TPUsDqhNzMKsinUBvYcZ7U854DQi-I/edit?usp=sharing 
 
 ## How was CrimiFace built? Built using Python:
