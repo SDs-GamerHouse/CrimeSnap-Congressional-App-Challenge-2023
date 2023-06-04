@@ -6,7 +6,8 @@
 ##### Presentation Google Slides: https://docs.google.com/presentation/d/1ACA74FgXqNwy1TPUsDqhNzMKsinUBvYcZ7U854DQi-I/edit?usp=sharing 
 
 ## How was CrimiFace built? Built using Python:
-- Used OpenCV library for the camera and UI. - Used Face-Recognition library to set up the facial recognition. 
+- Used OpenCV library for the camera and UI. 
+- Used Face-Recognition library to set up the facial recognition. 
 - Used Firebase, to setup the real time database. 
 
 ## More Details... 
