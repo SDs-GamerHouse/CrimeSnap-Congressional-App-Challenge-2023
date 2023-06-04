@@ -2,7 +2,7 @@ import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import db
 
-cred = credentials.Certificate("private_database_key.json") # path/to/serviceAccountKey.json
+cred = credentials.Certificate("private_database_key.json") # path/to/serviceAccountKey.json | You can get your service account key from the Firebase website
 firebase_admin.initialize_app(cred,{
     "databaseURL": "https://crimiface-bcb44-default-rtdb.firebaseio.com/"
 })
