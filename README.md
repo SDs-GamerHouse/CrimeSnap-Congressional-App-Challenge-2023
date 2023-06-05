@@ -25,5 +25,3 @@ In the future, I envision CrimiFace becoming an invaluable tool for law enforcem
 - https://upload.wikimedia.org/wikipedia/en/9/90/HeathJoker.png --> Joker image 
 #### CrimiFace Logo background taken from google: 
 - https://blog.relecura.com/wp-content/uploads/2019/05/800_390_face-recognition.png --> Logo background image 
-#### This YouTube video was a huge help in implementing the real time database and the face recognition aspects of CrimiFace: 
-- https://www.youtube.com/watch?v=iBomaK2ARyI&t=0s
