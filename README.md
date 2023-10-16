@@ -1,4 +1,4 @@
-# CrimeSnap - Congressional App Challenege 2023 Project - Winners TBA in December 2023
+# CrimeSnap - Congressional App Challenge 2023 Project - Winners TBA in December 2023
 
 ### Welcome to CrimeSnap, a highly accurate criminal detection program that utilizes facial recognition technology to instantly identify suspects and seamlessly transmit data to a real time database, ultimately enhancing law enforcement with vital information. 
 
